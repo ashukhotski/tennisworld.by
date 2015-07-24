@@ -1,0 +1,4 @@
+<Files ~ "*.(php|tpl|js|sql)">
+order allow,deny
+deny from all
+</Files>
